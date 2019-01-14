@@ -44,11 +44,11 @@ https://www.uniprot.org/uniprot/P01165#ptm_processing
 
 #### Dataset
 
-To test our script, let's use Chlamydomonas reinhardtii's proteome, available on the Genome Portal hosted by the Joint Genome Institute:
+Chlamydomonas reinhardtii's proteome, available on the Genome Portal hosted by the Joint Genome Institute:
 
 https://genome.jgi.doe.gov/chlamy/chlamy.download.ftp.html
 
-If you don't have an account, create one (it takes 2 minutes).
+Please follow to the repository's resources folder to download [Chlamydomonas reinhardtii's proteome](./resources/Chlre4_best_proteins.fasta) in a .fasta format.
 
 ### Resources
 
