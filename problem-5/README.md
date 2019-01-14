@@ -10,6 +10,8 @@ Predicting the presence and location of cleavage sites of signal peptides is a c
 
 http://www.cbs.dtu.dk/services/SignalP/
 
+<img src="./figures/scheme_signalPclient.png" width="600" />
+
 ### Primary goal
 
 During the Hackathon, we will develop a Python script or module that automates the detection of cleavage sites of signal peptide in sequences of aminoacid. This module should control for how often the requests are made, and how the output files are saved.
